@@ -65,7 +65,7 @@ python chatbot.py
 Launch the GUI frontend:
 
 ```bash
-python chatbot_gui.py
+python frontend.py
 ```
 
 Simply enter your messages and interact with the chatbot directly in the provided interface.
